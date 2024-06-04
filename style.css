@@ -1,0 +1,21 @@
+body{
+   
+    margin-top: 50px;
+}
+
+fieldset
+{
+    width: 500px;
+}
+
+.output
+{
+    margin-top: 50px;
+    width: 800px;
+    border: 2px solid green;
+    padding-left: 20px;
+}
+
+span{
+    font-size: 20px;
+}
